@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Roma_Man's github stats](https://github-readme-stats.vercel.app/api?username=kjspo56&show_icons=true)
+<br>
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=kjspo56)](https://solved.ac/kjspo56)
