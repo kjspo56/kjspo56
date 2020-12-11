@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 - Republic of Korea, Seoul<br>
 -- Java, HTML, CSS, JavaScript, jQuery, SpringFramework<br>
--- Oracle, MySQL, MariaDB, PostgreSQL<br>
+-- Oracle, MySQL, MariaDB, PostgreSQL, GeoServer<br>
 
 ![Roma_Man's github stats](https://github-readme-stats.vercel.app/api?username=kjspo56&show_icons=true)
 <br>
