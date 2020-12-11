@@ -18,8 +18,6 @@ Here are some ideas to get you started:
 💻 Oracle, MySQL, MariaDB, PostgreSQL, GeoServer<br>
 
 🔹This is My Daily Life --> <a href="http://blog.naver.com/kjspo56">Click!</a><br>
-🔹I Explain How I Solved the Problems --> <a href="https://itkjspo56.tistory.com/">Click!</a>
-
 
 ![Roma_Man's github stats](https://github-readme-stats.vercel.app/api?username=kjspo56&show_icons=true)
 <br>
