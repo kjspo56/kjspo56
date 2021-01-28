@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 💻 Java, HTML, CSS, JavaScript, jQuery, SpringFramework<br>
 💻 Oracle, MySQL, MariaDB, PostgreSQL, GeoServer<br>
 
+You will never know util you try<br>
+
 🔹This is My Daily Life --> <a href="http://blog.naver.com/kjspo56">Click!</a><br>
 
 ![Roma_Man's github stats](https://github-readme-stats.vercel.app/api?username=kjspo56&show_icons=true)
