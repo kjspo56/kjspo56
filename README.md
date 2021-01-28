@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 💻 Java, HTML, CSS, JavaScript, jQuery, SpringFramework<br>
 💻 Oracle, MySQL, MariaDB, PostgreSQL, GeoServer<br>
 
-You will never know util you try<br>
+You will never know until you try<br>
 
 🔹This is My Daily Life --> <a href="http://blog.naver.com/kjspo56">Click!</a><br>
 
