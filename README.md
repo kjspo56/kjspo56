@@ -19,7 +19,8 @@ Here are some ideas to get you started:
 
 You will never know until you try<br>
 
-🔹This is My Daily Life --> <a href="http://blog.naver.com/kjspo56">Click!</a><br>
+🔹This is My Daily Life --> <a href="http://blog.naver.com/kjspo56">Click!!</a><br>
+🔹This is My IT life --> <a href="https://itkjspo56.tistory.com/">Click!!</a><br>
 
 ![Roma_Man's github stats](https://github-readme-stats.vercel.app/api?username=kjspo56&show_icons=true)
 <br>
