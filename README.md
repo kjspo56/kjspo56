@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 -->
 
 ✔ Republic of Korea, Seoul<br>
+😊 Web Developer<br>
 💻 Java, HTML, CSS, JavaScript, jQuery, SpringFramework<br>
 💻 Oracle, MySQL, MariaDB, PostgreSQL, GeoServer<br>
 
