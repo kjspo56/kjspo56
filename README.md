@@ -22,8 +22,11 @@ You will never know until you try<br>
 🔹This is My Daily Life --> <a href="http://blog.naver.com/kjspo56">Click!!</a><br>
 🔹This is My IT life --> <a href="https://itkjspo56.tistory.com/">Click!!</a><br>
 
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
+
 ![Roma_Man's github stats](https://github-readme-stats.vercel.app/api?username=kjspo56&show_icons=true)
 <br>
+
 
 <!--
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=kjspo56)](https://solved.ac/kjspo56)
