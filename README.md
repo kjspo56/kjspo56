@@ -14,8 +14,21 @@ Here are some ideas to get you started:
 -->
 
 ✔ Republic of Korea, Seoul<br>
-💻 Java, HTML, CSS, JavaScript, jQuery, SpringFramework<br>
-💻 Oracle, MySQL, MariaDB, PostgreSQL, GeoServer<br>
+
+
+💻 Tech Stack 💻<br>
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/HTML-6DB33F?style=flat-square&logo=HTML&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/CSS-E34F26?style=flat-square&logo=CSS&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/JavaScript-6DB33F?style=flat-square&logo=JavaScript&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/jQuery-6DB33F?style=flat-square&logo=jQuery&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Oracle-6DB33F?style=flat-square&logo=Oracle&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/MySQL-6DB33F?style=flat-square&logo=MySQL&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/MariaDB-6DB33F?style=flat-square&logo=MariaDB&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/PostgreSQL-6DB33F?style=flat-square&logo=PostgreSQL&logoColor=white"/></a>
+
+
 
 You will never know until you try<br>
 
