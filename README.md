@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/HTML-6DB33F?style=flat-square&logo=HTML&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/CSS-E34F26?style=flat-square&logo=CSS&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/CSS-#1572B6?style=flat-square&logo=CSS&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/JavaScript-6DB33F?style=flat-square&logo=JavaScript&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/jQuery-6DB33F?style=flat-square&logo=jQuery&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Oracle-6DB33F?style=flat-square&logo=Oracle&logoColor=white"/></a>
@@ -35,9 +35,6 @@ You will never know until you try<br>
 🔹This is My Daily Life --> <a href="http://blog.naver.com/kjspo56">Click!!</a><br>
 🔹This is My IT life --> <a href="https://itkjspo56.tistory.com/">Click!!</a><br>
 
-
-<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>
 
 <!--
 <img src="https://img.shields.io/badge/쓰고자하는_텍스트-컬러코드?style=flat-square&logo=simpleicons에서_아이콘이름&logoColor=white"/></a>
