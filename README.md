@@ -31,6 +31,8 @@ Here are some ideas to get you started:
 <br>
 <br>
 <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Eclipse IDE-000000?style=flat-square&logo=eclipseide&logoColor=white"/></a>
+
 
 
 
