@@ -43,8 +43,8 @@ You will never know until you try<br>
 
 
 <!--
-<img src="https://img.shields.io/badge/쓰고자하는_텍스트-컬러코드?style=flat-square&logo=simpleicons에서_아이콘이름&logoColor=white"/></a>
--->
+<img src="https://img.shields.io/badge/쓰고자하는_텍스트-컬러코드?style=flat-square&logo=simpleicons에서_아이콘이름&logoColor=white"/></a>ㅇ
+애프터이펙트 일러스트레이터 라이트룸 포토샵 프리미어프로 아파치톰캣 애플 -->
 
 ![Roma_Man's github stats](https://github-readme-stats.vercel.app/api?username=kjspo56&show_icons=true)
 <br>
