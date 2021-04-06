@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 <br>
 <br>
 <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/QGIS-#589632?style=flat-square&logo=qgis&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/QGIS-589632?style=flat-square&logo=qgis&logoColor=white"/></a>
 
 
 
