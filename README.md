@@ -29,10 +29,11 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=PostgreSQL&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=PostgreSQL&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/QGIS-589632?style=flat-square&logo=qgis&logoColor=white"/></a>
 <br>
 <br>
 <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/QGIS-589632?style=flat-square&logo=qgis&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat-square&logo=eclipseide&logoColor=white"/></a>
 
 
 
