@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/></a>
 <br>
 <br>
-[![Adobe Photoshop Badge](https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white")]
+<img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Adobe After Effects-9999FF?style=flat-square&logo=adobeaftereffects&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Adobe Premiere Pro-9999FF?style=flat-square&logo=adobepremierepro&logoColor=white"/></a>
 <Br>
