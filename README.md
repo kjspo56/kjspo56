@@ -23,12 +23,14 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/></a>
 <br>
 <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=PostgreSQL&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=PostgreSQL&logoColor=white"/></a>
+<br>
 <img src="https://img.shields.io/badge/QGIS-589632?style=flat-square&logo=qgis&logoColor=white"/></a>
 <br>
 <br>
@@ -47,7 +49,7 @@ You will never know until you try<br>
 <!--
 <img src="https://img.shields.io/badge/쓰고자하는_텍스트-컬러코드?style=flat-square&logo=simpleicons에서_아이콘이름&logoColor=white"/></a>ㅇ
 애프터이펙트 일러스트레이터 라이트룸 포토샵 프리미어프로 아파치톰캣 애플 페이스북 파일질라 깃 깃허브 구글 구글크롬 그래들 아이클라우드 인스타그램 카카오톡 카카오
-링크드인 리눅스 로지텍 마세라티 엑셀 파워포인트 워드 네이버 노트패드 프리미어리그 파이썬 QGIS 윈도우 유튜브 -->
+링크드인 리눅스 로지텍 마세라티 엑셀 파워포인트 워드 네이버 노트패드 프리미어리그 파이썬 윈도우 유튜브 -->
 
 ![Roma_Man's github stats](https://github-readme-stats.vercel.app/api?username=kjspo56&show_icons=true)
 <br>
