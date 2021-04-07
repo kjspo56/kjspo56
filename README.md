@@ -14,8 +14,15 @@ Here are some ideas to get you started:
 -->
 
 ✔ Republic of Korea, Seoul<br>
-
-
+✔ Jungsoo Kim<br>
+<br>
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=&link=https://itkjspo56.tistory.com)](https://itkjspo56.tistory.com/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jungsoo-kim-8b00901a8/)](https://www.linkedin.com/in/jungsoo-kim-8b00901a8/)
+[![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/channel/UCiMzoxr2-bHoA3PoT__FSZg)](https://www.youtube.com/channel/UCiMzoxr2-bHoA3PoT__FSZg)
+[![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/kjspo56)](https://www.facebook.com/kjspo56)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kjspo56@gmail.com)](mailto:kjspo56@gmail.com)
+<br>
+<br>
 💻 Tech Stack 💻<br>
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>
@@ -42,24 +49,6 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Adobe After Effects-9999FF?style=flat-square&logo=adobeaftereffects&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Adobe Premiere Pro-9999FF?style=flat-square&logo=adobepremierepro&logoColor=white"/></a>
 <br>
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=&link=https://itkjspo56.tistory.com)](https://itkjspo56.tistory.com/)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jungsoo-kim-8b00901a8/)](https://www.linkedin.com/in/jungsoo-kim-8b00901a8/)
-[![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/channel/UCiMzoxr2-bHoA3PoT__FSZg)](https://www.youtube.com/channel/UCiMzoxr2-bHoA3PoT__FSZg)
-[![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/kjspo56)](https://www.facebook.com/kjspo56)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kjspo56@gmail.com)](mailto:kjspo56@gmail.com)
-	
-
-
-
-
-
- 
-
-
- 
-
-
-
 You will never know until you try<br>
 
 🔹This is My Daily Life --> <a href="http://blog.naver.com/kjspo56">Click!!</a><br>
