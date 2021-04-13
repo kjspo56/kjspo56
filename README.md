@@ -49,6 +49,8 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Adobe After Effects-9999FF?style=flat-square&logo=adobeaftereffects&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Adobe Premiere Pro-9999FF?style=flat-square&logo=adobepremierepro&logoColor=white"/></a>
 <br>
+<img src="https://img.shields.io/badge/Microsoft Word-2B579A?style=flat-square&logo=microsoftword&logoColor=white"/></a>
+<br>
 You will never know until you try<br>
 
 🔹This is My Daily Life --> <a href="http://blog.naver.com/kjspo56">Click!!</a><br>
