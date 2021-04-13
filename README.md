@@ -49,7 +49,12 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Adobe After Effects-9999FF?style=flat-square&logo=adobeaftereffects&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Adobe Premiere Pro-9999FF?style=flat-square&logo=adobepremierepro&logoColor=white"/></a>
 <br>
-<img src="https://img.shields.io/badge/Microsoft Word-2B579A?style=flat-square&logo=microsoftwordicon&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Microsoft Word-2B579A?style=flat-square&logo=microsoftword&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Microsoft Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Microsoft Teams-6264A7?style=flat-square&logo=microsoftteams&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Microsoft Office-D83B01?style=flat-square&logo=microsoftoffice&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Microsoft OneNote-7719AA?style=flat-square&logo=microsoftonenote&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Microsoft PowerPoint-B7472A?style=flat-square&logo=microsoftpowerpoint&logoColor=white"/></a>
 <br>
 You will never know until you try<br>
 
