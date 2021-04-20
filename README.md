@@ -23,6 +23,7 @@ Here are some ideas to get you started:
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kjspo56@gmail.com)](mailto:kjspo56@gmail.com)
 <br>
 <img src="https://img.shields.io/badge/Apple-000000?style=flat-square&logo=apple&logoColor=white"/></a>
+<br>
 <img src="https://img.shields.io/badge/KakaoTalk-FFCD00?style=flat-square&logo=kakaotalk&logoColor=white"/></a>
 ![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/kjspo56")
 <br>
