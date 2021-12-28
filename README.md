@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 ✔ Republic of Korea, Seoul<br>
-✔ Jungsoo Kim<br>
+<br>
 <br>
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=&link=https://itkjspo56.tistory.com)](https://itkjspo56.tistory.com/)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jungsoo-kim-8b00901a8/)](https://www.linkedin.com/in/jungsoo-kim-8b00901a8/)
