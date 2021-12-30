@@ -1,5 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&section=header&text=Roma_Man&fontSize=50)
 <div align="center">
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkjspo56%2Fhit-counter)](https://hits.seeyoufarm.com)                     
 
   👋Ciao, Benvenuto!! I'm Roma_Man<br>
   ✔ Republic of Korea, Seoul<br>
