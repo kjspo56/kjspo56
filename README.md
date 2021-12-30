@@ -41,9 +41,9 @@
 깃 깃허브 구글 구글크롬 그래들 아이클라우드 카카오
 로지텍 마세라티  네이버 노트패드 프리미어리그 윈도우  -->
 
-<div align="center">
+
 ![Roma_Man's github stats](https://github-readme-stats.vercel.app/api?username=kjspo56&show_icons=true)
-</div>
+
   <br>
 
 
