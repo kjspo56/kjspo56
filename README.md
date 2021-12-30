@@ -1,11 +1,11 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&section=header&text=Roma_Man&fontSize=50)
 <div align="center">
 <br>
-### Hi there 👋
 
+  👋Ciao, Benvenuto!
+  ✔ Republic of Korea, Seoul<br>
 
-✔ Republic of Korea, Seoul<br>
-<br>
+  <br>
 <br>
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=&link=https://itkjspo56.tistory.com)](https://itkjspo56.tistory.com/)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jungsoo-kim-8b00901a8/)](https://www.linkedin.com/in/jungsoo-kim-8b00901a8/)
