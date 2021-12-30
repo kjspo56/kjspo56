@@ -31,17 +31,20 @@
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/></a>
 <br>
 </div>
+<div align="center">
 🔹This is My Daily Life --> <a href="http://blog.naver.com/kjspo56">Click!!</a><br>
 🔹This is My IT life --> <a href="https://itkjspo56.tistory.com/">Click!!</a><br>
-
+</div>
 
 <!--
 <img src="https://img.shields.io/badge/쓰고자하는_텍스트-컬러코드?style=flat-square&logo=simpleicons에서_아이콘이름&logoColor=white"/></a>
 깃 깃허브 구글 구글크롬 그래들 아이클라우드 카카오
 로지텍 마세라티  네이버 노트패드 프리미어리그 윈도우  -->
 
+<div align="center">
 ![Roma_Man's github stats](https://github-readme-stats.vercel.app/api?username=kjspo56&show_icons=true)
-<br>
+</div>
+  <br>
 
 
 <!--
