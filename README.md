@@ -1,6 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&section=header&text=Roma_Man&fontSize=50)
-<div align="center">
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkjspo56%2Fhit-counter)](https://hits.seeyoufarm.com)                     
+<div align="center">                   
 
   👋Ciao, Benvenuto!! I'm Roma_Man<br>
   ✔ Republic of Korea, Seoul<br>
@@ -31,7 +30,7 @@
 <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat-square&logo=eclipseide&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/></a>
 <br>
-
+</div>
 🔹This is My Daily Life --> <a href="http://blog.naver.com/kjspo56">Click!!</a><br>
 🔹This is My IT life --> <a href="https://itkjspo56.tistory.com/">Click!!</a><br>
 
@@ -48,6 +47,6 @@
 <!--
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=kjspo56)](https://solved.ac/kjspo56)
 -->
-
+<div>
 </div>
 
