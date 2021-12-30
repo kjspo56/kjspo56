@@ -1,10 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&section=header&text=Roma_Man&fontSize=50)
 <div align="center">
 <br>
-
   👋Ciao, Benvenuto!
   ✔ Republic of Korea, Seoul<br>
-
   <br>
 <br>
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=&link=https://itkjspo56.tistory.com)](https://itkjspo56.tistory.com/)
