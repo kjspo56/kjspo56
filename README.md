@@ -1,4 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&section=header&text=Roma_Man&fontSize=50)
+<div aling="center">
 ### Hi there 👋
 
 
@@ -60,4 +61,6 @@ Here are some ideas to get you started:
 <!--
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=kjspo56)](https://solved.ac/kjspo56)
 -->
+
+</div>
 
