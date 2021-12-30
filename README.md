@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&section=header&text=Roma_Man&fontSize=50)
 <div align="center">
-<br>
-  👋Ciao, Benvenuto!
+
+  👋Ciao, Benvenuto!<br>
   ✔ Republic of Korea, Seoul<br>
   <br>
 <br>
