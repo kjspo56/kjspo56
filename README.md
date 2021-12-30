@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&section=header&text=Roma_Man&fontSize=50)
-<div aling="center">
+<div align="center">
 ### Hi there 👋
 
 
