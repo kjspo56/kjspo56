@@ -43,7 +43,7 @@
 로지텍 마세라티  네이버 노트패드 프리미어리그 윈도우  -->
 
 
-![Roma_Man's github stats](https://github-readme-stats.vercel.app/api?username=kjspo56&show_icons=true)
+![Roma_Man's github stats](https://github-readme-stats.vercel.app/api?username=kjspo56&show_icons=true&theme=radical)
 
   <br>
 
