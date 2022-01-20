@@ -45,6 +45,8 @@
 
 ![Roma_Man's github stats](https://github-readme-stats.vercel.app/api?username=kjspo56&show_icons=true&theme=radical)
 
+<script src="https://gist.github.com/kjspo56/66e655ada943ca69d36837e2d20cd7bc.js"></script>
+
   <br>
 
 
