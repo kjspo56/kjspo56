@@ -45,8 +45,9 @@
 
 ![Roma_Man's github stats](https://github-readme-stats.vercel.app/api?username=kjspo56&show_icons=true&theme=radical)
 
+<!--
 [![본인ID's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=kjspo56&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/kjspo56)
-
+-->
 
   <br>
 
