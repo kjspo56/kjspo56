@@ -36,8 +36,8 @@
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/></a>
 <br>
 
-🔹This is My Daily Life -> <a href="http://blog.naver.com/kjspo56">Click!!</a><br>
-🔹This is My IT life -> <a href="https://itkjspo56.tistory.com/">Click!!</a><br>
+🔹This is My Daily Life ➡ <a href="http://blog.naver.com/kjspo56">Click!!</a><br>
+🔹This is My IT life ➡ <a href="https://itkjspo56.tistory.com/">Click!!</a><br>
 
 
 <!--
