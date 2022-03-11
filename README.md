@@ -39,7 +39,6 @@
 <br>
 <br>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkjspo56&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
 <!--
@@ -62,9 +61,13 @@
   <br>
 
 
-<!--
+
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=kjspo56)](https://solved.ac/kjspo56)
--->
+
+<!--
+<img src="https://img.shields.io/badge/쓰고자하는_텍스트-컬러코드?style=flat-square&logo=simpleicons에서_아이콘이름&logoColor=white"/></a>
+깃 깃허브 구글 구글크롬 그래들 아이클라우드 카카오
+로지텍 마세라티  네이버 노트패드 프리미어리그 윈도우  -->
 
 </div>
 
