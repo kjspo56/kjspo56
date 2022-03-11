@@ -24,9 +24,11 @@
 
 ![QGIS](https://img.shields.io/badge/QGIS-589632.svg?&style=for-the-badge&logo=QGIS&logoCOlor=white)
 
+![IntelliJ](https://img.shields.io/badge/IntelliJ-000000.svg?&style=for-the-badge&logo=IntelliJ&logoCOlor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255.svg?&style=for-the-badge&logo=Eclipse&logoCOlor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual Studio Code-007ACC.svg?&style=for-the-badge&logo=Visual Studio Code&logoCOlor=white)
 
-<br>
-<br>
+
 <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat-square&logo=eclipseide&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/></a>
