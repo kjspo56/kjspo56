@@ -54,15 +54,15 @@
 [![Solved.ac. Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kjspo56)]
 (https://solved.ac./kjspo56/)
 
-<!--
+
 [![본인ID's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=kjspo56&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/kjspo56)
--->
+
 
   <br>
 
 
 
-[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=kjspo56)](https://solved.ac/kjspo56)
+<!-- [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=kjspo56)](https://solved.ac/kjspo56) -->
 
 <!--
 <img src="https://img.shields.io/badge/쓰고자하는_텍스트-컬러코드?style=flat-square&logo=simpleicons에서_아이콘이름&logoColor=white"/></a>
