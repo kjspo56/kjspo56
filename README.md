@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&section=header&text=Roma_Man&fontSize=50)
 <div align="center">                   
 
-#KIM JUNGSOO
+# KIM JUNGSOO
   
 👋Ciao, Benvenuto!! I'm Roma_Man<br>
 ✔ Republic of Korea, Seoul<br>
@@ -30,7 +30,8 @@
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/></a>
 <br>
   
-  
+# 📬: Contacts
+
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=&link=https://itkjspo56.tistory.com)](https://itkjspo56.tistory.com/)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jungsoo-kim-8b00901a8/)](https://www.linkedin.com/in/jungsoo-kim-8b00901a8/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kjspo56@gmail.com)](mailto:kjspo56@gmail.com)
