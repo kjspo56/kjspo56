@@ -1,5 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&section=header&text=Roma_Man&fontSize=50)
-<div align="center">                   
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&section=header&text=Roma_Man&fontSize=50)                 
 
 # KIM JUNGSOO
 
@@ -40,34 +39,26 @@
 <br>
 
 
-
-<!--
-<img src="https://img.shields.io/badge/쓰고자하는_텍스트-컬러코드?style=flat-square&logo=simpleicons에서_아이콘이름&logoColor=white"/></a>
-깃 깃허브 구글 구글크롬 그래들 아이클라우드 카카오
-로지텍 마세라티  네이버 노트패드 프리미어리그 윈도우  -->
-
-
 ![Roma_Man's github stats](https://github-readme-stats.vercel.app/api?username=kjspo56&show_icons=true&theme=radical)
 <!-- github stats 종류-->
 <!-- dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula-->
 
-[![Solved.ac. Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kjspo56)]
+![Solved.ac. Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kjspo56)
 (https://solved.ac./kjspo56/)
 
 
+
+
+
+<!-- 백준 뱃지 표시
+[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=kjspo56)](https://solved.ac/kjspo56) -->
+
+<!-- 본인이 주로 사용하는 언어
 [![본인ID's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=kjspo56&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/kjspo56)
+-->
 
-
-  <br>
-
-
-
-<!-- [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=kjspo56)](https://solved.ac/kjspo56) -->
-
-<!--
+<!-- 뱃지 꾸미기
 <img src="https://img.shields.io/badge/쓰고자하는_텍스트-컬러코드?style=flat-square&logo=simpleicons에서_아이콘이름&logoColor=white"/></a>
 깃 깃허브 구글 구글크롬 그래들 아이클라우드 카카오
 로지텍 마세라티  네이버 노트패드 프리미어리그 윈도우  -->
-
-</div>
 
