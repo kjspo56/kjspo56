@@ -30,12 +30,11 @@
   
 # 📬: Contacts
 
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=&link=https://itkjspo56.tistory.com)](https://itkjspo56.tistory.com/)
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20Blog-black?style=flat-square&logo=&link=https://itkjspo56.tistory.com)](https://itkjspo56.tistory.com/)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jungsoo-kim-8b00901a8/)](https://www.linkedin.com/in/jungsoo-kim-8b00901a8/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kjspo56@gmail.com)](mailto:kjspo56@gmail.com)
+[![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:kjspo56@naver.com)](mailto:kjspo56@naver.com)
 <br>
-<br>
-
 <!-- github stats 종류-->
 <!-- dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula-->
 ![Roma_Man's github stats](https://github-readme-stats.vercel.app/api?username=kjspo56&show_icons=true&theme=radical)
