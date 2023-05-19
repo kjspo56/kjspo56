@@ -36,7 +36,6 @@
 
 
 
-
 <!-- 백준 뱃지 표시
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=kjspo56)](https://solved.ac/kjspo56) -->
 
