@@ -33,21 +33,4 @@
 ![Roma_Man's github stats](https://github-readme-stats.vercel.app/api?username=kjspo56&show_icons=true&theme=radical)
 ![Solved.ac. Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kjspo56)
 
-<!-- IDE의 활동이 기록 -->
-<!-- 1. username은 wakatime에서 가입한 계정을 기재한다. wakatime 사이트에서 github 계정과 연동하기때문이다. -->
-<!-- 2. 끝단의 () 링크는 배너클릭 시 연결되는 곳으로 기능동작과 관계없다. 개인github 사이트도 좋고, 아예 생략해도된다. -->
-<!--[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@roma_man)] -->
-<!--(https://wakatime.com/@kjspo56)--> 차후 추가 예정
-
-<!-- 백준 뱃지 표시
-[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=kjspo56)](https://solved.ac/kjspo56) -->
-
-<!-- 본인이 주로 사용하는 언어
-[![본인ID's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=kjspo56&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/kjspo56)
--->
-
-<!-- 뱃지 꾸미기
-<img src="https://img.shields.io/badge/쓰고자하는_텍스트-컬러코드?style=flat-square&logo=simpleicons에서_아이콘이름&logoColor=white"/></a>
-깃 깃허브 구글 구글크롬 그래들 아이클라우드 카카오
-로지텍 마세라티  네이버 노트패드 프리미어리그 윈도우  -->
 
